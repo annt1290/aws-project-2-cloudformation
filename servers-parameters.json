@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Project2"
+    },
+    {
+        "ParameterKey": "ImageId",
+        "ParameterValue": "ami-0df32f8302dfe67df"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.medium"
+    },
+    {
+        "ParameterKey": "VolumeSize",
+        "ParameterValue": "10"
+    },
+    {
+        "ParameterKey": "WebAppArchiveURI",
+        "ParameterValue": "s3://my-950151735420-bucket/web-app.zip"
+    }
+]
